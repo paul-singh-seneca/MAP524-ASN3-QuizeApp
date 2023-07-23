@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق مسابقة</string>
+    <string name="button_true">حقيقي</string>
+    <string name="button_false">خطأ شنيع</string>
+    <string name="getAverage">احصل على المتوسط</string>
+    <string name="selectNoOfQuestions">حدد رقم السؤال</string>
+    <string name="resetSavedResult">إعادة تعيين النتيجة المحفوظة</string>
+    <string name="resultsReset">تم إعادة تعيين النتائج المحفوظة.</string>
+    <string name="resetFailed">فشل إعادة تعيين النتائج المحفوظة.</string>
+    <string name="noResults">لم يتم العثور على نتائج محفوظة.</string>
+    <string name="invalidNoOfQuestions">تم تحديد عدد غير صالح من الأسئلة.</string>
+    <string name="resultAverage">متوسط النتيجة</string>
+    <string name="resultsText">إجاباتك الصحيحة / العدد الإجمالي للأسئلة التي تمت تجربتها هو:</string>
+    <string name="save">يحفظ</string>
+    <string name="ok">نعم</string>
+    <string name="correctAnswer">اجابة صحيحة!</string>
+    <string name="wrongAnswer">إجابة خاطئة</string>
+    <string name="resultsDialogTitle">نتائج</string>
+    <string name="resultDialogText">النتيجة هي: </string>
+    <string name="outOf">من</string>
+    <string name="ignore">يتجاهل</string>
+    <string name="quizResultSaved">تم حفظ نتيجة الاختبار!</string>
+    <string name="resultsNotSaved">خطأ: تعذر حفظ النتيجة!</string>
+    <string name="questionsLoaded">تم تحميل الأسئلة بنجاح</string>
+    <string name="questionLoadFailed">فشل تحميل الأسئلة</string>
+    <string name="selectNumberTitle">حدد عدد الأسئلة</string>
+    <string name="cancel">يلغي</string>
+    <string name="noOfQuestionsSet">عدد الأسئلة التي تم تعيينها على</string>
+</resources>

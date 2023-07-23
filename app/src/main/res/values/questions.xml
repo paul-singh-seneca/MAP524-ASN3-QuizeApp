@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>Toronto is the Capital City of Ontario|true|#800080</item>
+        <item>Are dogs mammals?|true|#FF0000</item>
+        <item>Is the sun a star?|true|#00FF00</item>
+        <item>Does water boil at 100 degrees Celsius?|false|#0000FF</item>
+        <item>Is Tokyo the capital of Japan?|true|#FFFF00</item>
+        <item>Are bananas a type of fruit?|true|#FF00FF</item>
+        <item>Does the Earth revolve around the Moon?|false|#00FFFF</item>
+        <item>Is the Statue of Liberty located in Paris?|false|#800080</item>
+        <item>Are penguins able to fly?|false|#008000</item>
+        <item>Is the Pacific Ocean the largest ocean on Earth?|true|#FFA500</item>
+        <item>Are spiders insects?|false|#808080</item>
+        <item>If you add the two numbers on the opposite sides of a dice together, the answer is always 7?|true|#FFA500</item>
+        <item>You can sneeze during sleep|false|#808080</item>
+        <item>Human teeth are as strong as the teeth of a mature shark|true|#F5F5F5</item>
+        <item>The Tesla Roadster was the first car to be launched to space|true|#F27D21</item>
+        <item>Alaska is the biggest American state in square miles|true|#000088</item>
+        <item>Venus is the hottest planet in the solar system|true|#00FFFF</item>
+        <item>In a deck of cards, the king has a mustache|false|#808080</item>
+        <item>The United States has the longest coastline in the world|false|#FF00FF</item>
+        <item>You can sneeze during your sleep?|false|#800080</item>
+    </string-array>
+</resources>

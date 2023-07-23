@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QuizeApp</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="getAverage">Get the Average</string>
+    <string name="selectNoOfQuestions">Select the Number of Question</string>
+    <string name="resetSavedResult">Reset the Saved Result</string>
+    <string name="resultsReset">Saved results have been reset.</string>
+    <string name="resetFailed">Failed to reset saved results.</string>
+    <string name="noResults">No saved results found.</string>
+    <string name="invalidNoOfQuestions">Invalid number of questions selected.</string>
+    <string name="resultAverage">Result Average</string>
+    <string name="resultsText">Your Correct Answers / Total Number of Questions Attempted is: </string>
+    <string name="save">Save</string>
+    <string name="ok">Ok</string>
+    <string name="correctAnswer">Correct answer!</string>
+    <string name="wrongAnswer">Wrong Answer</string>
+    <string name="resultsDialogTitle">Results</string>
+    <string name="resultDialogText">You Score is: </string>
+    <string name="outOf">out of</string>
+    <string name="ignore">Ignore</string>
+    <string name="quizResultSaved">Quiz result saved!</string>
+    <string name="resultsNotSaved">Error: Could not save result!</string>
+    <string name="questionsLoaded">Questions loaded successfully</string>
+    <string name="questionLoadFailed">Failed to load questions</string>
+    <string name="selectNumberTitle">Select Number of Questions</string>
+    <string name="cancel">Cancel</string>
+    <string name="noOfQuestionsSet">Number of questions set to </string>
+</resources>
